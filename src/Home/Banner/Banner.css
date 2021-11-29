@@ -1,0 +1,18 @@
+.bannerbg{
+    background-image: url('../portfolio-bg.jpg');
+    height: 80vh;
+    
+}
+.padding{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.resume{
+    margin-left: 50px;
+    background-image: linear-gradient(cyan,turquoise);
+    
+}
+
+
+
+
