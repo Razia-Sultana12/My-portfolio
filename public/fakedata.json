@@ -1,0 +1,39 @@
+[
+    {    "id":1,
+        "img":"../images/tour.png",
+         "title":"Tour Hour (A travel website)",
+        "details":"heloogfh"},
+        
+        {    "id":2,
+            "img":"../images/carplan.png",
+             "title":"Car Planet (Car dealing website)"},
+            {    "id":3,
+                "img":"../images/doc.png",
+                 "title":"Heal & Cure (Online hospital service)"},
+                {    "id":4,
+                    "img":"../images/coders.png",
+                "title":"Coders Pro (An educational site)"},
+                {    "id":5,
+                    "img":"../images/shopi.png",
+                "title":"Shopify.com (E-commerce site)"},
+                {    "id":6,
+                    "img":"../images/goodfood.png",
+                "title":"Good Food (Online food service)"},
+                    
+                        {    "id":7,
+                            "img":"../images/footballcopa.png",
+                        "title":"Football Club (Copa America 2021)"},
+                            {    "id":8,
+                                "img":"../images/honda.png",
+                            "title":"Honda CBR (Online bike dealing)"},
+                            {    "id":9,
+                                "img":"../images/appstore.png",
+                            "title":"App Store (A site for app)"},
+                           
+                                {    "id":10,
+                                    "img":"../images/macbookpro.png",
+                                "title":"MacBook Pro (MacBook dealing site)"}
+                                   
+
+                                    
+]
