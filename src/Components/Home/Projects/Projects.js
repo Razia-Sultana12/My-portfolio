@@ -10,7 +10,7 @@ const Projects = () => {
     },[])
     return (
         <div className="container my-5 text-center">
-            <h1 className='my-5'>My Recent Projects</h1>
+            <h2 className='my-5 color'>My Recent Projects</h2>
             <div class="row row-cols-1 row-cols-md-3 g-4">
             
             {

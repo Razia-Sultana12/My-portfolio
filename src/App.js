@@ -7,6 +7,8 @@ import Projects from './Components/Home/Projects/Projects';
 import About from './Components/Home/About/About';
 import Contact from './Components/Home/Contact/Contact';
 import { BrowserRouter as Router,Switch,Route } from 'react-router-dom';
+import Blogs from './Components/Home/Blogs/Blogs';
+import Header from './Components/Home/Header/Header';
 
 
 function App() {
@@ -14,6 +16,7 @@ function App() {
     <div>
       
        <Router>
+       <Header></Header>
     <Switch>
       
       <Route exact path="/">
@@ -24,6 +27,9 @@ function App() {
       </Route>
       <Route path="/projects">
        <Projects></Projects>
+      </Route>
+      <Route path="/blogs">
+       <Blogs></Blogs>
       </Route>
       <Route path="/singleProject/:projectId">
         <SingleProject></SingleProject>

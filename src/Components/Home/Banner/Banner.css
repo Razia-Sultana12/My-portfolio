@@ -8,8 +8,9 @@
     padding-left: 50px;
 }
 .resume{
-    margin-left: 50px;
-    background-image: linear-gradient(cyan,turquoise);
+    margin: 10px;
+    background-image: linear-gradient(purple,rebeccapurple);
+    color: white;
     
 }
 

@@ -14,7 +14,7 @@ const Project = (props) => {
      <img src={img} class="card-img-top" alt="..."/>
      <div class="card-body">
     <h5 class="card-title">{title}</h5>
-    <Link to={`/singleProject/${id}`}><button className='btn-sm btn-primary'>Explore More</button></Link>
+    <Link to={`/singleProject/${id}`}><button className='resume btn '>Explore More</button></Link>
     
     </div>
     </div>
