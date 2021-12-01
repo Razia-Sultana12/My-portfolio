@@ -30,7 +30,7 @@ const SingleProject = () => {
       <Header></Header>
         <div className="container">
             <div class="card mb-3">
-                <h2 className="text-center my-5">{title}</h2>
+                <h2 className="text-center my-5 color">{title}</h2>
   <div class="row g-0">
     <div class="col-md-4">
       <h4>Homepage  </h4>
@@ -39,7 +39,7 @@ const SingleProject = () => {
     </div>
     <div class="col-md-8">
       <div class="card-body">
-        <h5 class="card-title my-3">About This Project</h5>
+        <h5 class="card-title my-3 color">About This Project</h5>
         <p class="card-text">{details}</p>
        <button className="btn btn-sm btn-light  fw-bold"><a href={livelink} target="_blank" >LiveSite</a></button>
        <br/>
