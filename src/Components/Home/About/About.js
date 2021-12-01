@@ -12,14 +12,14 @@ const About = () => {
           <h2 className="text-center color my-5">About Me</h2>
         <div class="row my-5">
           <div class="col-12 col-md-6 animate__animated animate__fadeInLeft">
-          <h3>I'm Razia Sultana</h3>
+          <h3>I'm <span className="color">Razia Sultana</span></h3>
             <p>A student of Computer Science And Engineering from Dhaka City College.And also A Junior web developer with six plus months of front end training and passion for responsive website design and a determined believer in the mobile-first approach is searching for an opportunity to enhance my web development skills and knowledge.</p>
             <Link to="/contact"><button className='resume btn text-light fw-bold'>Hire Me</button></Link>
             
             
           </div>
           <div class="col-12 col-md-6 animate__animated animate__fadeInRight">
-          <h3>Skills</h3>
+          <h3 className='title-color'>Skills</h3>
             <button className="btn resume btn-dark">HTML</button>
             <button className="btn resume btn-dark">CSS</button>
             <button className="btn resume btn-dark">Javascript</button>

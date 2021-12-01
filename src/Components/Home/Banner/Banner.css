@@ -13,6 +13,14 @@
     color: white;
     
 }
+@media only screen and (max-width: 600px) {
+    .bannerimg{
+        width:300px;
+        margin-left:25px ;
+        margin-top: 10px;
+        overflow-x: hidden;
+    }
+  }
 
 
 
