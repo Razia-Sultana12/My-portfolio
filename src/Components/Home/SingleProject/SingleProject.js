@@ -27,13 +27,13 @@ const SingleProject = () => {
     }
     return (
       <div>
-      <Header></Header>
+      
         <div className="container">
             <div class="card mb-3">
                 <h2 className="text-center my-5 color">{title}</h2>
   <div class="row g-0">
     <div class="col-md-4">
-      <h4>Homepage  </h4>
+      <h5 className='color'>Homepage  </h5>
       <img src={img1} class="img-fluid rounded-start" alt="..."/>
       
     </div>
